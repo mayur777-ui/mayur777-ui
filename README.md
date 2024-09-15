@@ -56,6 +56,6 @@
 <h3 align="left">Featured Projects:</h3>
 <ul>
   <li><a href="https://github.com/mayur777-ui/TODO-APP">TODO-WEB-APP</a></li>
-  <li><a href="https://github.com/mayur777-ui/project2">User-Authentication-System</a></li>
+  <li><a href="https://github.com/mayur777-ui/Authentication-And-Authorization">User-Authentication-System</a></li>
 </ul>
 
