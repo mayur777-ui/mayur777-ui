@@ -51,15 +51,11 @@
   </a> 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayur777-ui&show_icons=true&theme=radical" alt="mayur777-ui"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur777-ui&show_icons=true&theme=radical&layout=compact" alt="mayur777-ui"/>
-</p>
+
 
 <h3 align="left">Featured Projects:</h3>
 <ul>
-  <li><a href="https://github.com/mayur777-ui/project1">Project 1</a></li>
-  <li><a href="https://github.com/mayur777-ui/project2">Project 2</a></li>
+  <li><a href="https://github.com/mayur777-ui/project1">TODO-WEB-APP</a></li>
+  <li><a href="https://github.com/mayur777-ui/project2">User-Authentication-System</a></li>
 </ul>
 
