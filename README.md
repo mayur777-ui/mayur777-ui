@@ -56,14 +56,17 @@ I’m a dedicated learner with a deep passion for web development and exploring 
 
 ---
 
-## Statistics:
-<div align="center" style="display: flex; justify-content: space-around;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mayur777-ui&show_icons=true&locale=en" alt="mayur777-ui" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur777-ui&" alt="mayur777-ui" />
+## 📊 Statistics:
+<div >
+  <div align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=mayur777-ui&show_icons=true&locale=en" alt="mayur777-ui" />
+  </div>
+   <div align="center">
+     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayur777-ui&" alt="mayur777-ui" />
+  </div>
 </div>
 
----
-
+<hr />
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C3FF&width=500&height=50&lines=Empowering+Web+Development+with+MERN"/>
 </div>
