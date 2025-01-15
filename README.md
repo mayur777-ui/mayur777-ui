@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Coding gif" height="400" width="800"/>
 </div>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&width=450&lines=Mayur+Lakshkar+%7EMERN+Developer" alt="Typing SVG"/>
@@ -47,6 +48,7 @@ I'm a passionate web developer with expertise in creating functional, dynamic, a
 
 - [TODO Web App](https://github.com/mayur777-ui/TODO-APP) - A simple and efficient task management web app built using the MERN stack.
 - [User Authentication System](https://github.com/mayur777-ui/Authentication-And-Authorization) - A user authentication system with JWT, Express, and MongoDB.
+- [Task Manager](task-manager-1-9lkd.onrender.com/)- A Task Manager which is too user friendly and having authentication system and also the farmer Motion animation used in it.
 
 ---
 
