@@ -69,6 +69,10 @@ I’m a dedicated learner with a deep passion for web development and exploring 
 </div>
 
 <hr />
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C3FF&width=500&height=50&lines=Empowering+Web+Development+with+MERN"/>
+</div>
+ -->
+<div align="center">
+  <h1>Made with ❤️ by Mayur</h1>
 </div>
