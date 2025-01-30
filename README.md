@@ -63,9 +63,9 @@ I’m a dedicated learner with a deep passion for web development and exploring 
   <div align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=mayur777-ui&show_icons=true&locale=en" alt="mayur777-ui" />
   </div>
-   <div align="center">
+<!--    <div align="center">
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayur777-ui&" alt="mayur777-ui" />
-  </div>
+  </div> -->
 </div>
 
 <hr />
