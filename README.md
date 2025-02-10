@@ -16,7 +16,8 @@
 
 🔹 **Ask me about:** MERN Stack | JavaScript | React | Node.js | Express | MongoDB  
 📬 **Reach me at:** [mayurlaxkar76@gmail.com](mailto:mayurlaxkar76@gmail.com)  
-🌍 **Portfolio (Coming Soon!)**  
+🌍 **[Portfolio](https://portfolio-msuv.onrender.com/)**
+
 
 ---
 
